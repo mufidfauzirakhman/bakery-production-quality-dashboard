@@ -1,0 +1,201 @@
+﻿Production_ID,Production_Date,Product_Category,Production_Shift,Production_Line,Total_Produced,Total_Defective,Defect_Rate,Defect_Type,Defect_Quantity,Quality_Status,Batch_ID,Quality_Inspector,Production_Line_and_Shift
+1001,2025-01-02,Donat,Siang,Line A,708,18,0.0254,Bentuk Tidak Seragam,17,Perlu Perhatian,SB-250102-001,Dewi,Line A-Siang
+1002,2025-01-05,Roti Cokelat,Pagi,Line A,812,69,0.085,Gosong,56,Perlu Evaluasi,SB-250105-002,Citra,Line A-Pagi
+1003,2025-01-06,Donat,Pagi,Line A,934,29,0.031,Gagal Mengembang,13,Perlu Perhatian,SB-250106-003,Andi,Line A-Pagi
+1004,2025-01-07,Donat,Pagi,Line B,980,60,0.0612,Gepeng,28,Perlu Evaluasi,SB-250107-004,Andi,Line B-Pagi
+1005,2025-01-07,Roti Manis,Siang,Line B,1097,25,0.0228,Bentuk Tidak Seragam,9,Baik,SB-250107-005,Dewi,Line B-Siang
+1006,2025-01-08,Roti Manis,Pagi,Line C,989,6,0.0061,Gosong,4,Baik,SB-250108-006,Citra,Line C-Pagi
+1007,2025-01-11,Roti Manis,Pagi,Line C,1089,36,0.0331,Gosong,24,Perlu Perhatian,SB-250111-007,Citra,Line C-Pagi
+1008,2025-01-12,Roti Manis,Siang,Line A,901,73,0.081,Bentuk Tidak Seragam,51,Perlu Evaluasi,SB-250112-008,Andi,Line A-Siang
+1009,2025-01-13,Roti Tawar,Siang,Line A,1083,15,0.0139,Gagal Mengembang,12,Baik,SB-250113-009,Dewi,Line A-Siang
+1010,2025-01-14,Roti Cokelat,Malam,Line C,1395,95,0.0681,Gosong,52,Perlu Evaluasi,SB-250114-010,Budi,Line C-Malam
+1011,2025-01-15,Roti Tawar,Malam,Line A,503,7,0.0139,Gepeng,7,Baik,SB-250115-011,Citra,Line A-Malam
+1012,2025-01-16,Roti Manis,Malam,Line C,306,6,0.0196,Bentuk Tidak Seragam,2,Baik,SB-250116-012,Eko,Line C-Malam
+1013,2025-01-16,Roti Tawar,Pagi,Line C,395,6,0.0152,Gagal Mengembang,4,Baik,SB-250116-013,Dewi,Line C-Pagi
+1014,2025-01-17,Roti Cokelat,Malam,Line A,1184,15,0.0127,Gepeng,5,Baik,SB-250117-014,Andi,Line A-Malam
+1015,2025-01-17,Donat,Pagi,Line C,1184,27,0.0228,Gepeng,12,Baik,SB-250117-015,Budi,Line C-Pagi
+1016,2025-01-17,Roti Tawar,Pagi,Line A,1465,29,0.0198,Gepeng,13,Baik,SB-250117-016,Dewi,Line A-Pagi
+1017,2025-01-17,Roti Cokelat,Pagi,Line C,1462,30,0.0205,Gagal Mengembang,12,Baik,SB-250117-017,Andi,Line C-Pagi
+1018,2025-01-17,Roti Cokelat,Pagi,Line C,1144,31,0.0271,Gepeng,22,Perlu Perhatian,SB-250117-018,Budi,Line C-Pagi
+1019,2025-01-18,Roti Tawar,Malam,Line B,415,10,0.0241,Gepeng,6,Baik,SB-250118-019,Citra,Line B-Malam
+1020,2025-01-20,Roti Tawar,Siang,Line C,944,44,0.0466,Gosong,15,Perlu Evaluasi,SB-250120-020,Eko,Line C-Siang
+1021,2025-01-21,Roti Cokelat,Pagi,Line A,1173,22,0.0188,Gepeng,19,Baik,SB-250121-021,Budi,Line A-Pagi
+1022,2025-01-22,Roti Manis,Siang,Line C,1246,15,0.012,Gagal Mengembang,15,Baik,SB-250122-022,Citra,Line C-Siang
+1023,2025-01-23,Roti Manis,Siang,Line B,398,7,0.0176,Bentuk Tidak Seragam,4,Baik,SB-250123-023,Budi,Line B-Siang
+1024,2025-01-24,Roti Manis,Siang,Line A,546,15,0.0275,Gepeng,14,Perlu Perhatian,SB-250124-024,Andi,Line A-Siang
+1025,2025-01-24,Roti Manis,Pagi,Line A,490,7,0.0143,Bentuk Tidak Seragam,6,Baik,SB-250124-025,Citra,Line A-Pagi
+1026,2025-01-26,Croissant,Siang,Line A,442,19,0.043,Gepeng,17,Perlu Evaluasi,SB-250126-026,Dewi,Line A-Siang
+1027,2025-01-26,Roti Tawar,Malam,Line B,1254,18,0.0144,Bentuk Tidak Seragam,11,Baik,SB-250126-027,Citra,Line B-Malam
+1028,2025-01-28,Roti Tawar,Pagi,Line B,477,6,0.0126,Gagal Mengembang,6,Baik,SB-250128-028,Budi,Line B-Pagi
+1029,2025-01-28,Roti Tawar,Malam,Line C,1408,11,0.0078,Gepeng,7,Baik,SB-250128-029,Eko,Line C-Malam
+1030,2025-01-29,Donat,Siang,Line C,1305,42,0.0322,Gagal Mengembang,30,Perlu Perhatian,SB-250129-030,Dewi,Line C-Siang
+1031,2025-01-30,Roti Manis,Siang,Line C,1174,25,0.0213,Bentuk Tidak Seragam,10,Baik,SB-250130-031,Dewi,Line C-Siang
+1032,2025-01-30,Roti Manis,Pagi,Line B,1050,14,0.0133,Gosong,5,Baik,SB-250130-032,Budi,Line B-Pagi
+1033,2025-01-30,Roti Cokelat,Pagi,Line C,881,13,0.0148,Gagal Mengembang,7,Baik,SB-250130-033,Dewi,Line C-Pagi
+1034,2025-01-31,Roti Manis,Siang,Line C,1396,27,0.0193,Gosong,27,Baik,SB-250131-034,Eko,Line C-Siang
+1035,2025-02-02,Donat,Pagi,Line B,941,23,0.0244,Gagal Mengembang,16,Baik,SB-250202-035,Citra,Line B-Pagi
+1036,2025-02-04,Croissant,Pagi,Line C,1326,12,0.009,Gepeng,9,Baik,SB-250204-036,Eko,Line C-Pagi
+1037,2025-02-05,Donat,Siang,Line C,1154,39,0.0338,Gagal Mengembang,16,Perlu Perhatian,SB-250205-037,Eko,Line C-Siang
+1038,2025-02-05,Roti Tawar,Pagi,Line B,1433,18,0.0126,Gepeng,12,Baik,SB-250205-038,Citra,Line B-Pagi
+1039,2025-02-06,Croissant,Siang,Line B,259,5,0.0193,Gagal Mengembang,3,Baik,SB-250206-039,Budi,Line B-Siang
+1040,2025-02-08,Roti Cokelat,Pagi,Line B,1000,46,0.046,Gepeng,31,Perlu Evaluasi,SB-250208-040,Dewi,Line B-Pagi
+1041,2025-02-10,Roti Manis,Pagi,Line C,510,8,0.0157,Gagal Mengembang,6,Baik,SB-250210-041,Citra,Line C-Pagi
+1042,2025-02-10,Roti Tawar,Pagi,Line B,643,6,0.0093,Bentuk Tidak Seragam,4,Baik,SB-250210-042,Dewi,Line B-Pagi
+1043,2025-02-12,Roti Cokelat,Pagi,Line B,470,16,0.034,Gosong,11,Perlu Perhatian,SB-250212-043,Andi,Line B-Pagi
+1044,2025-02-12,Roti Tawar,Siang,Line A,1147,95,0.0828,Gagal Mengembang,40,Perlu Evaluasi,SB-250212-044,Dewi,Line A-Siang
+1045,2025-02-13,Croissant,Siang,Line A,931,17,0.0183,Gepeng,5,Baik,SB-250213-045,Andi,Line A-Siang
+1046,2025-02-14,Donat,Malam,Line C,627,20,0.0319,Gepeng,12,Perlu Perhatian,SB-250214-046,Budi,Line C-Malam
+1047,2025-02-19,Roti Tawar,Siang,Line B,1223,10,0.0082,Gagal Mengembang,9,Baik,SB-250219-047,Dewi,Line B-Siang
+1048,2025-02-19,Roti Tawar,Pagi,Line C,1372,8,0.0058,Gepeng,7,Baik,SB-250219-048,Eko,Line C-Pagi
+1049,2025-02-19,Roti Manis,Malam,Line C,611,26,0.0426,Gagal Mengembang,20,Perlu Evaluasi,SB-250219-049,Budi,Line C-Malam
+1050,2025-02-20,Roti Cokelat,Siang,Line C,1312,9,0.0069,Bentuk Tidak Seragam,3,Baik,SB-250220-050,Eko,Line C-Siang
+1051,2025-02-21,Donat,Siang,Line B,808,9,0.0111,Gosong,3,Baik,SB-250221-051,Andi,Line B-Siang
+1052,2025-02-22,Croissant,Siang,Line A,1314,13,0.0099,Gepeng,4,Baik,SB-250222-052,Eko,Line A-Siang
+1053,2025-02-24,Donat,Malam,Line B,1187,8,0.0067,Gepeng,6,Baik,SB-250224-053,Citra,Line B-Malam
+1054,2025-02-24,Roti Manis,Siang,Line B,466,4,0.0086,Bentuk Tidak Seragam,3,Baik,SB-250224-054,Dewi,Line B-Siang
+1055,2025-02-26,Donat,Siang,Line B,1341,13,0.0097,Gepeng,9,Baik,SB-250226-055,Budi,Line B-Siang
+1056,2025-02-27,Roti Tawar,Siang,Line B,1062,35,0.033,Gosong,28,Perlu Perhatian,SB-250227-056,Andi,Line B-Siang
+1057,2025-02-28,Donat,Siang,Line B,1467,20,0.0136,Gosong,8,Baik,SB-250228-057,Eko,Line B-Siang
+1058,2025-03-01,Roti Manis,Pagi,Line A,765,13,0.017,Gagal Mengembang,10,Baik,SB-250301-058,Citra,Line A-Pagi
+1059,2025-03-02,Donat,Siang,Line B,847,10,0.0118,Gosong,6,Baik,SB-250302-059,Citra,Line B-Siang
+1060,2025-03-03,Croissant,Siang,Line B,1066,15,0.0141,Gosong,7,Baik,SB-250303-060,Budi,Line B-Siang
+1061,2025-03-03,Croissant,Siang,Line C,1453,39,0.0268,Bentuk Tidak Seragam,26,Perlu Perhatian,SB-250303-061,Budi,Line C-Siang
+1062,2025-03-04,Roti Cokelat,Pagi,Line A,1250,18,0.0144,Gosong,6,Baik,SB-250304-062,Eko,Line A-Pagi
+1063,2025-03-05,Donat,Pagi,Line A,1278,17,0.0133,Gepeng,5,Baik,SB-250305-063,Eko,Line A-Pagi
+1064,2025-03-07,Donat,Siang,Line A,268,8,0.0299,Gosong,6,Perlu Perhatian,SB-250307-064,Andi,Line A-Siang
+1065,2025-03-07,Donat,Pagi,Line C,885,30,0.0339,Gagal Mengembang,17,Perlu Perhatian,SB-250307-065,Andi,Line C-Pagi
+1066,2025-03-07,Croissant,Siang,Line A,1132,19,0.0168,Gepeng,15,Baik,SB-250307-066,Andi,Line A-Siang
+1067,2025-03-08,Roti Cokelat,Malam,Line C,1140,34,0.0298,Gosong,14,Perlu Perhatian,SB-250308-067,Dewi,Line C-Malam
+1068,2025-03-08,Croissant,Pagi,Line C,427,8,0.0187,Gepeng,7,Baik,SB-250308-068,Citra,Line C-Pagi
+1069,2025-03-10,Roti Manis,Pagi,Line A,1399,15,0.0107,Gepeng,6,Baik,SB-250310-069,Andi,Line A-Pagi
+1070,2025-03-11,Roti Cokelat,Malam,Line A,863,19,0.022,Gepeng,9,Baik,SB-250311-070,Dewi,Line A-Malam
+1071,2025-03-14,Croissant,Pagi,Line C,945,24,0.0254,Gepeng,19,Perlu Perhatian,SB-250314-071,Eko,Line C-Pagi
+1072,2025-03-15,Croissant,Siang,Line C,673,20,0.0297,Gagal Mengembang,16,Perlu Perhatian,SB-250315-072,Eko,Line C-Siang
+1073,2025-03-15,Roti Tawar,Siang,Line B,631,19,0.0301,Gosong,14,Perlu Perhatian,SB-250315-073,Andi,Line B-Siang
+1074,2025-03-15,Roti Manis,Pagi,Line B,748,24,0.0321,Gepeng,8,Perlu Perhatian,SB-250315-074,Andi,Line B-Pagi
+1075,2025-03-15,Roti Manis,Pagi,Line B,1010,19,0.0188,Gagal Mengembang,18,Baik,SB-250315-075,Andi,Line B-Pagi
+1076,2025-03-17,Donat,Siang,Line B,1129,27,0.0239,Gagal Mengembang,25,Baik,SB-250317-076,Eko,Line B-Siang
+1077,2025-03-19,Donat,Pagi,Line B,894,30,0.0336,Bentuk Tidak Seragam,25,Perlu Perhatian,SB-250319-077,Eko,Line B-Pagi
+1078,2025-03-20,Roti Cokelat,Pagi,Line C,800,17,0.0213,Bentuk Tidak Seragam,6,Baik,SB-250320-078,Dewi,Line C-Pagi
+1079,2025-03-20,Croissant,Siang,Line C,1463,23,0.0157,Gepeng,19,Baik,SB-250320-079,Eko,Line C-Siang
+1080,2025-03-20,Roti Manis,Pagi,Line C,1482,28,0.0189,Gosong,10,Baik,SB-250320-080,Citra,Line C-Pagi
+1081,2025-03-20,Roti Tawar,Pagi,Line C,926,30,0.0324,Gepeng,26,Perlu Perhatian,SB-250320-081,Budi,Line C-Pagi
+1082,2025-03-20,Roti Manis,Siang,Line C,386,10,0.0259,Gagal Mengembang,3,Perlu Perhatian,SB-250320-082,Eko,Line C-Siang
+1083,2025-03-21,Croissant,Pagi,Line C,727,9,0.0124,Bentuk Tidak Seragam,3,Baik,SB-250321-083,Budi,Line C-Pagi
+1084,2025-03-21,Croissant,Pagi,Line C,1097,6,0.0055,Bentuk Tidak Seragam,5,Baik,SB-250321-084,Eko,Line C-Pagi
+1085,2025-03-22,Roti Manis,Pagi,Line A,905,28,0.0309,Gagal Mengembang,15,Perlu Perhatian,SB-250322-085,Citra,Line A-Pagi
+1086,2025-03-22,Donat,Malam,Line C,1359,78,0.0574,Gagal Mengembang,49,Perlu Evaluasi,SB-250322-086,Budi,Line C-Malam
+1087,2025-03-23,Croissant,Siang,Line C,1219,11,0.009,Bentuk Tidak Seragam,6,Baik,SB-250323-087,Andi,Line C-Siang
+1088,2025-03-23,Roti Manis,Pagi,Line B,740,24,0.0324,Gepeng,9,Perlu Perhatian,SB-250323-088,Budi,Line B-Pagi
+1089,2025-03-24,Roti Cokelat,Pagi,Line C,944,18,0.0191,Gosong,6,Baik,SB-250324-089,Eko,Line C-Pagi
+1090,2025-03-25,Roti Cokelat,Pagi,Line A,1190,25,0.021,Bentuk Tidak Seragam,14,Baik,SB-250325-090,Eko,Line A-Pagi
+1091,2025-03-25,Roti Manis,Pagi,Line C,632,17,0.0269,Gagal Mengembang,11,Perlu Perhatian,SB-250325-091,Budi,Line C-Pagi
+1092,2025-03-26,Croissant,Siang,Line B,653,6,0.0092,Gepeng,2,Baik,SB-250326-092,Dewi,Line B-Siang
+1093,2025-03-26,Roti Cokelat,Malam,Line C,1044,20,0.0192,Gagal Mengembang,13,Baik,SB-250326-093,Budi,Line C-Malam
+1094,2025-03-26,Donat,Malam,Line B,1235,13,0.0105,Gepeng,8,Baik,SB-250326-094,Citra,Line B-Malam
+1095,2025-03-26,Roti Manis,Pagi,Line A,1419,9,0.0063,Gepeng,6,Baik,SB-250326-095,Citra,Line A-Pagi
+1096,2025-03-27,Donat,Pagi,Line A,331,6,0.0181,Gepeng,2,Baik,SB-250327-096,Budi,Line A-Pagi
+1097,2025-03-31,Croissant,Pagi,Line A,1222,32,0.0262,Gepeng,12,Perlu Perhatian,SB-250331-097,Andi,Line A-Pagi
+1098,2025-03-31,Roti Tawar,Siang,Line B,252,2,0.0079,Gepeng,1,Baik,SB-250331-098,Budi,Line B-Siang
+1099,2025-03-31,Roti Manis,Pagi,Line B,763,22,0.0288,Gepeng,13,Perlu Perhatian,SB-250331-099,Eko,Line B-Pagi
+1100,2025-04-01,Croissant,Pagi,Line C,850,22,0.0259,Gosong,10,Perlu Perhatian,SB-250401-100,Citra,Line C-Pagi
+1101,2025-04-01,Roti Tawar,Pagi,Line C,1330,62,0.0466,Bentuk Tidak Seragam,50,Perlu Evaluasi,SB-250401-101,Eko,Line C-Pagi
+1102,2025-04-01,Donat,Siang,Line B,289,2,0.0069,Gepeng,1,Baik,SB-250401-102,Eko,Line B-Siang
+1103,2025-04-02,Roti Cokelat,Siang,Line C,867,27,0.0311,Gepeng,9,Perlu Perhatian,SB-250402-103,Budi,Line C-Siang
+1104,2025-04-03,Donat,Pagi,Line C,568,18,0.0317,Gagal Mengembang,17,Perlu Perhatian,SB-250403-104,Eko,Line C-Pagi
+1105,2025-04-05,Roti Manis,Pagi,Line B,435,13,0.0299,Gepeng,7,Perlu Perhatian,SB-250405-105,Eko,Line B-Pagi
+1106,2025-04-09,Roti Cokelat,Siang,Line A,347,2,0.0058,Gepeng,2,Baik,SB-250409-106,Dewi,Line A-Siang
+1107,2025-04-09,Roti Tawar,Pagi,Line C,627,9,0.0144,Gagal Mengembang,8,Baik,SB-250409-107,Dewi,Line C-Pagi
+1108,2025-04-10,Croissant,Pagi,Line A,1117,11,0.0098,Bentuk Tidak Seragam,5,Baik,SB-250410-108,Eko,Line A-Pagi
+1109,2025-04-10,Donat,Siang,Line A,972,9,0.0093,Bentuk Tidak Seragam,7,Baik,SB-250410-109,Andi,Line A-Siang
+1110,2025-04-11,Roti Tawar,Malam,Line B,591,4,0.0068,Gepeng,2,Baik,SB-250411-110,Andi,Line B-Malam
+1111,2025-04-11,Croissant,Siang,Line A,314,4,0.0127,Gepeng,3,Baik,SB-250411-111,Citra,Line A-Siang
+1112,2025-04-11,Roti Tawar,Malam,Line C,745,19,0.0255,Gosong,9,Perlu Perhatian,SB-250411-112,Citra,Line C-Malam
+1113,2025-04-12,Roti Tawar,Pagi,Line C,1406,8,0.0057,Gosong,5,Baik,SB-250412-113,Dewi,Line C-Pagi
+1114,2025-04-12,Donat,Pagi,Line C,1362,23,0.0169,Gepeng,13,Baik,SB-250412-114,Andi,Line C-Pagi
+1115,2025-04-12,Roti Cokelat,Siang,Line B,1400,45,0.0321,Gosong,41,Perlu Perhatian,SB-250412-115,Dewi,Line B-Siang
+1116,2025-04-13,Croissant,Siang,Line C,724,15,0.0207,Gagal Mengembang,10,Baik,SB-250413-116,Andi,Line C-Siang
+1117,2025-04-14,Donat,Pagi,Line B,1224,38,0.031,Gepeng,36,Perlu Perhatian,SB-250414-117,Citra,Line B-Pagi
+1118,2025-04-19,Donat,Pagi,Line C,278,10,0.036,Gagal Mengembang,10,Perlu Perhatian,SB-250419-118,Budi,Line C-Pagi
+1119,2025-04-20,Croissant,Malam,Line B,685,15,0.0219,Gagal Mengembang,11,Baik,SB-250420-119,Andi,Line B-Malam
+1120,2025-04-24,Roti Tawar,Siang,Line A,496,8,0.0161,Gepeng,4,Baik,SB-250424-120,Budi,Line A-Siang
+1121,2025-04-24,Roti Manis,Pagi,Line B,279,22,0.0789,Bentuk Tidak Seragam,22,Perlu Evaluasi,SB-250424-121,Eko,Line B-Pagi
+1122,2025-04-24,Roti Tawar,Siang,Line A,482,10,0.0207,Gepeng,4,Baik,SB-250424-122,Eko,Line A-Siang
+1123,2025-04-25,Roti Cokelat,Siang,Line A,556,29,0.0522,Gepeng,23,Perlu Evaluasi,SB-250425-123,Dewi,Line A-Siang
+1124,2025-04-25,Roti Cokelat,Pagi,Line A,1377,48,0.0349,Bentuk Tidak Seragam,35,Perlu Perhatian,SB-250425-124,Budi,Line A-Pagi
+1125,2025-04-26,Roti Tawar,Siang,Line B,528,4,0.0076,Gagal Mengembang,3,Baik,SB-250426-125,Andi,Line B-Siang
+1126,2025-04-28,Roti Cokelat,Pagi,Line C,566,6,0.0106,Gagal Mengembang,4,Baik,SB-250428-126,Budi,Line C-Pagi
+1127,2025-04-28,Roti Tawar,Malam,Line B,1294,36,0.0278,Gepeng,22,Perlu Perhatian,SB-250428-127,Budi,Line B-Malam
+1128,2025-04-30,Roti Tawar,Pagi,Line A,1371,11,0.008,Gagal Mengembang,8,Baik,SB-250430-128,Citra,Line A-Pagi
+1129,2025-04-30,Croissant,Pagi,Line B,481,13,0.027,Bentuk Tidak Seragam,6,Perlu Perhatian,SB-250430-129,Dewi,Line B-Pagi
+1130,2025-04-30,Roti Manis,Siang,Line C,560,7,0.0125,Bentuk Tidak Seragam,2,Baik,SB-250430-130,Citra,Line C-Siang
+1131,2025-05-01,Roti Tawar,Pagi,Line B,603,13,0.0216,Gosong,8,Baik,SB-250501-131,Andi,Line B-Pagi
+1132,2025-05-01,Roti Tawar,Pagi,Line B,1441,28,0.0194,Gepeng,16,Baik,SB-250501-132,Budi,Line B-Pagi
+1133,2025-05-03,Croissant,Siang,Line A,1343,12,0.0089,Gepeng,4,Baik,SB-250503-133,Eko,Line A-Siang
+1134,2025-05-03,Roti Manis,Siang,Line C,750,16,0.0213,Bentuk Tidak Seragam,6,Baik,SB-250503-134,Citra,Line C-Siang
+1135,2025-05-03,Donat,Pagi,Line A,1299,42,0.0323,Gepeng,18,Perlu Perhatian,SB-250503-135,Dewi,Line A-Pagi
+1136,2025-05-04,Roti Manis,Pagi,Line C,1029,28,0.0272,Gepeng,13,Perlu Perhatian,SB-250504-136,Dewi,Line C-Pagi
+1137,2025-05-04,Roti Tawar,Siang,Line C,1193,42,0.0352,Gepeng,14,Perlu Perhatian,SB-250504-137,Citra,Line C-Siang
+1138,2025-05-06,Donat,Siang,Line A,440,11,0.025,Bentuk Tidak Seragam,8,Perlu Perhatian,SB-250506-138,Citra,Line A-Siang
+1139,2025-05-06,Roti Tawar,Pagi,Line B,628,14,0.0223,Bentuk Tidak Seragam,11,Baik,SB-250506-139,Andi,Line B-Pagi
+1140,2025-05-06,Croissant,Malam,Line C,1098,69,0.0628,Bentuk Tidak Seragam,58,Perlu Evaluasi,SB-250506-140,Citra,Line C-Malam
+1141,2025-05-07,Croissant,Siang,Line B,1189,17,0.0143,Gosong,13,Baik,SB-250507-141,Eko,Line B-Siang
+1142,2025-05-07,Croissant,Siang,Line B,952,25,0.0263,Bentuk Tidak Seragam,13,Perlu Perhatian,SB-250507-142,Budi,Line B-Siang
+1143,2025-05-07,Donat,Siang,Line A,1121,20,0.0178,Gepeng,12,Baik,SB-250507-143,Dewi,Line A-Siang
+1144,2025-05-10,Donat,Malam,Line C,1079,6,0.0056,Gepeng,2,Baik,SB-250510-144,Budi,Line C-Malam
+1145,2025-05-10,Donat,Pagi,Line A,1392,12,0.0086,Gepeng,10,Baik,SB-250510-145,Eko,Line A-Pagi
+1146,2025-05-11,Donat,Siang,Line C,1388,15,0.0108,Gagal Mengembang,13,Baik,SB-250511-146,Budi,Line C-Siang
+1147,2025-05-13,Roti Tawar,Siang,Line B,634,9,0.0142,Gosong,7,Baik,SB-250513-147,Citra,Line B-Siang
+1148,2025-05-14,Roti Manis,Malam,Line C,750,23,0.0307,Gosong,10,Perlu Perhatian,SB-250514-148,Budi,Line C-Malam
+1149,2025-05-15,Roti Cokelat,Pagi,Line B,1321,26,0.0197,Gosong,18,Baik,SB-250515-149,Eko,Line B-Pagi
+1150,2025-05-17,Roti Tawar,Siang,Line C,1405,43,0.0306,Gagal Mengembang,43,Perlu Perhatian,SB-250517-150,Citra,Line C-Siang
+1151,2025-05-17,Croissant,Pagi,Line B,1033,13,0.0126,Gepeng,8,Baik,SB-250517-151,Budi,Line B-Pagi
+1152,2025-05-18,Roti Tawar,Pagi,Line A,762,9,0.0118,Bentuk Tidak Seragam,6,Baik,SB-250518-152,Budi,Line A-Pagi
+1153,2025-05-18,Roti Manis,Pagi,Line A,818,25,0.0306,Gagal Mengembang,22,Perlu Perhatian,SB-250518-153,Citra,Line A-Pagi
+1154,2025-05-19,Roti Manis,Malam,Line B,1499,16,0.0107,Gosong,9,Baik,SB-250519-154,Eko,Line B-Malam
+1155,2025-05-19,Donat,Malam,Line A,1041,10,0.0096,Gepeng,3,Baik,SB-250519-155,Citra,Line A-Malam
+1156,2025-05-20,Roti Manis,Siang,Line B,389,12,0.0308,Gosong,8,Perlu Perhatian,SB-250520-156,Dewi,Line B-Siang
+1157,2025-05-21,Donat,Pagi,Line C,1246,43,0.0345,Gosong,33,Perlu Perhatian,SB-250521-157,Andi,Line C-Pagi
+1158,2025-05-21,Donat,Siang,Line A,1471,21,0.0143,Gosong,10,Baik,SB-250521-158,Budi,Line A-Siang
+1159,2025-05-21,Donat,Pagi,Line A,655,20,0.0305,Gosong,18,Perlu Perhatian,SB-250521-159,Dewi,Line A-Pagi
+1160,2025-05-21,Roti Manis,Pagi,Line C,1252,25,0.02,Gepeng,18,Baik,SB-250521-160,Andi,Line C-Pagi
+1161,2025-05-22,Roti Tawar,Siang,Line A,635,25,0.0394,Gosong,17,Perlu Perhatian,SB-250522-161,Budi,Line A-Siang
+1162,2025-05-22,Croissant,Malam,Line C,1065,32,0.03,Gepeng,12,Perlu Perhatian,SB-250522-162,Citra,Line C-Malam
+1163,2025-05-22,Donat,Pagi,Line A,818,6,0.0073,Gagal Mengembang,6,Baik,SB-250522-163,Budi,Line A-Pagi
+1164,2025-05-24,Donat,Pagi,Line A,880,24,0.0273,Gosong,14,Perlu Perhatian,SB-250524-164,Dewi,Line A-Pagi
+1165,2025-05-24,Roti Manis,Malam,Line A,1453,11,0.0076,Gepeng,4,Baik,SB-250524-165,Dewi,Line A-Malam
+1166,2025-05-24,Roti Cokelat,Malam,Line B,1488,14,0.0094,Gosong,14,Baik,SB-250524-166,Eko,Line B-Malam
+1167,2025-05-25,Donat,Pagi,Line A,1445,16,0.0111,Gagal Mengembang,15,Baik,SB-250525-167,Andi,Line A-Pagi
+1168,2025-05-25,Roti Cokelat,Pagi,Line A,958,21,0.0219,Gagal Mengembang,13,Baik,SB-250525-168,Dewi,Line A-Pagi
+1169,2025-05-27,Croissant,Malam,Line B,715,9,0.0126,Gagal Mengembang,6,Baik,SB-250527-169,Andi,Line B-Malam
+1170,2025-05-28,Roti Cokelat,Siang,Line B,732,10,0.0137,Gepeng,6,Baik,SB-250528-170,Andi,Line B-Siang
+1171,2025-05-29,Roti Cokelat,Pagi,Line C,703,8,0.0114,Gagal Mengembang,2,Baik,SB-250529-171,Andi,Line C-Pagi
+1172,2025-05-29,Croissant,Siang,Line A,837,16,0.0191,Gepeng,9,Baik,SB-250529-172,Andi,Line A-Siang
+1173,2025-05-30,Roti Tawar,Pagi,Line A,626,32,0.0511,Gosong,25,Perlu Evaluasi,SB-250530-173,Dewi,Line A-Pagi
+1174,2025-05-30,Roti Cokelat,Pagi,Line B,1326,19,0.0143,Gepeng,13,Baik,SB-250530-174,Dewi,Line B-Pagi
+1175,2025-05-30,Roti Tawar,Pagi,Line A,773,24,0.031,Gepeng,11,Perlu Perhatian,SB-250530-175,Citra,Line A-Pagi
+1176,2025-06-01,Roti Tawar,Siang,Line C,1025,9,0.0088,Gagal Mengembang,3,Baik,SB-250601-176,Eko,Line C-Siang
+1177,2025-06-01,Roti Cokelat,Siang,Line C,803,14,0.0174,Bentuk Tidak Seragam,4,Baik,SB-250601-177,Eko,Line C-Siang
+1178,2025-06-03,Roti Cokelat,Pagi,Line C,463,16,0.0346,Gosong,8,Perlu Perhatian,SB-250603-178,Budi,Line C-Pagi
+1179,2025-06-03,Roti Cokelat,Pagi,Line C,1244,11,0.0088,Gepeng,8,Baik,SB-250603-179,Andi,Line C-Pagi
+1180,2025-06-04,Roti Cokelat,Malam,Line B,987,16,0.0162,Gosong,14,Baik,SB-250604-180,Eko,Line B-Malam
+1181,2025-06-04,Donat,Siang,Line A,1163,17,0.0146,Gosong,10,Baik,SB-250604-181,Budi,Line A-Siang
+1182,2025-06-04,Croissant,Pagi,Line A,943,14,0.0148,Gosong,9,Baik,SB-250604-182,Dewi,Line A-Pagi
+1183,2025-06-09,Roti Cokelat,Pagi,Line B,1461,17,0.0116,Gagal Mengembang,10,Baik,SB-250609-183,Eko,Line B-Pagi
+1184,2025-06-10,Roti Tawar,Pagi,Line C,1410,32,0.0227,Gepeng,25,Baik,SB-250610-184,Eko,Line C-Pagi
+1185,2025-06-11,Donat,Pagi,Line B,1402,104,0.0742,Gosong,75,Perlu Evaluasi,SB-250611-185,Andi,Line B-Pagi
+1186,2025-06-12,Roti Cokelat,Pagi,Line C,1316,26,0.0198,Gepeng,19,Baik,SB-250612-186,Eko,Line C-Pagi
+1187,2025-06-12,Croissant,Siang,Line A,1486,33,0.0222,Gepeng,19,Baik,SB-250612-187,Budi,Line A-Siang
+1188,2025-06-15,Roti Cokelat,Siang,Line A,921,31,0.0337,Bentuk Tidak Seragam,28,Perlu Perhatian,SB-250615-188,Eko,Line A-Siang
+1189,2025-06-16,Roti Cokelat,Siang,Line B,975,8,0.0082,Gosong,4,Baik,SB-250616-189,Dewi,Line B-Siang
+1190,2025-06-16,Roti Manis,Siang,Line A,1009,18,0.0178,Gosong,7,Baik,SB-250616-190,Eko,Line A-Siang
+1191,2025-06-18,Croissant,Siang,Line B,336,5,0.0149,Gepeng,2,Baik,SB-250618-191,Citra,Line B-Siang
+1192,2025-06-19,Croissant,Pagi,Line B,1113,11,0.0099,Gosong,10,Baik,SB-250619-192,Citra,Line B-Pagi
+1193,2025-06-22,Roti Tawar,Pagi,Line A,1452,17,0.0117,Gepeng,11,Baik,SB-250622-193,Citra,Line A-Pagi
+1194,2025-06-23,Roti Cokelat,Siang,Line A,1435,25,0.0174,Bentuk Tidak Seragam,12,Baik,SB-250623-194,Eko,Line A-Siang
+1195,2025-06-24,Roti Cokelat,Siang,Line B,1356,24,0.0177,Gepeng,18,Baik,SB-250624-195,Citra,Line B-Siang
+1196,2025-06-24,Roti Manis,Pagi,Line C,1449,9,0.0062,Gepeng,6,Baik,SB-250624-196,Eko,Line C-Pagi
+1197,2025-06-25,Roti Cokelat,Siang,Line A,1202,98,0.0815,Gepeng,88,Perlu Evaluasi,SB-250625-197,Eko,Line A-Siang
+1198,2025-06-26,Donat,Pagi,Line C,959,16,0.0167,Gepeng,7,Baik,SB-250626-198,Andi,Line C-Pagi
+1199,2025-06-28,Roti Cokelat,Malam,Line A,892,74,0.083,Gagal Mengembang,39,Perlu Evaluasi,SB-250628-199,Dewi,Line A-Malam
+1200,2025-06-29,Roti Cokelat,Siang,Line B,1303,43,0.033,Gagal Mengembang,23,Perlu Perhatian,SB-250629-200,Eko,Line B-Siang
